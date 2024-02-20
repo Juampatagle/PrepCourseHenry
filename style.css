@@ -1,0 +1,20 @@
+body{
+    background: #eacda3;  
+    background: -webkit-linear-gradient(to right, #d6ae7b, #eacda3);  
+    background: linear-gradient(to right, #d6ae7b, #eacda3); 
+     
+}
+
+.titulo{
+    background-color: white ;
+    text-align: center;
+    font-size: 25px;
+}
+
+#principal{
+    font-size: 35px;
+}
+
+.logo{
+    width: 200px;
+}
